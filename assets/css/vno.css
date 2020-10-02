@@ -8284,7 +8284,7 @@ i {
   }
 }
 
-@media all and (max-width: 960px) {
+@media all and (max-width: 1px) {
   .btn-mobile-menu {
     display: block;
   }
@@ -8443,7 +8443,7 @@ i {
   font-size: 0;
 }
 
-@media screen and (max-width: 960px) {
+@media screen and (max-width: 1px) {
   .remark {
     display: none;
   }
